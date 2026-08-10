@@ -1,5 +1,10 @@
-## Hi there 👋
+# Here are a few of my works
 
+## Xbox Accessibility lead Zach Clothier Interview
+
+## User Created Documentation for the Argus C3 Camera
+
+## Article on Short Development History of Resident Evil 2
 <!--
 **MrJustiFaiz/MrJustiFaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
